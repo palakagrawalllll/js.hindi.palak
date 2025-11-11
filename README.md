@@ -1,2 +1,1 @@
-# js.hindi.palak
-Practicing the javascript.
+A code repo for JavaScript
